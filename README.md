@@ -4,9 +4,6 @@ This repository is the source code for the epic length [Build Youtube in React](
 
 <h3 align="center">Please help this repo with a ⭐️ if you find it useful! 😁</h3>
 
-# 2 Demo
-
-**[Please watch the demo on Youtube](https://www.youtube.com/watch?v=E7wJTI-1dvQ)**
 
 [![Build Youtube in React demo video](http://img.youtube.com/vi/E7wJTI-1dvQ/0.jpg)](http://www.youtube.com/watch?v=E7wJTI-1dvQ)
 
@@ -25,7 +22,7 @@ It uses real data by leveraging the [Youtube Data API v3](https://developers.goo
 
 This application loads information using the [Youtube Data API v3](https://developers.google.com/youtube/v3/docs/).
 
-To use it, you need to set up a [Youtube Data v3 API key](https://productioncoder.com/build-youtube-in-react-part-19/) and run the project with `npm` or `yarn`.
+
 
 **Below, you'll find a step by step explanation**
 
